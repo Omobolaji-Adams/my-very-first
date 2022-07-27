@@ -1,2 +1,2 @@
 # my-very-first repos
-* Welome _to_ my *github*.
+* Welome _to_ my **github** .
